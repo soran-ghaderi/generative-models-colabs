@@ -10,7 +10,7 @@ The notebooks are organized by model type. Below you will find a list of availab
 
 Energy-Based Models learn an energy function that assigns low energy values to "real" data points and high energy values to "fake" or unlikely data points.
 
-*   **[Training an EBM with Contrastive Divergence](./Training_EBM_Contrastive_Divergence.ipynb)**
+*   **[Training an EBM with Contrastive Divergence](./notebooks/Training_EBM_Contrastive_Divergence.ipynb)**
     *   This notebook provides a tutorial on training a simple EBM on a synthetic dataset using the `torchebm` library. It covers defining the energy function, using Langevin Dynamics for sampling, and applying Contrastive Divergence for training.
 
 ---
